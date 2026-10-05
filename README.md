@@ -2,10 +2,8 @@
 
 A full-stack, event-driven photo gallery. Users sign up, upload photos straight to S3, and the backend automatically creates a thumbnail and a resized copy, then tags each image with Amazon Rekognition. The React frontend shows a gallery you can search by tag.
 
-**Live demo:** _add your link here_  
+**Live demo:** https://preeminent-figolla-14691c.netlify.app/
 **Region:** `ap-south-1` (Mumbai)
-
-![PhotoVault gallery](docs/screenshots/gallery.png)
 
 ## Features
 
